@@ -4,10 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.groovyweb.co/uploads/Services/1624939546-3%20MERN%20Stack%20Developer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-akkala&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-akkala" /> </p>
+ 
 
-- 🌱 I’m currently learning **MERN - Full Stack Development**
-
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Product Management**
 
 - 📫 How to reach me **amanojkg@gmail.com**
 
