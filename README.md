@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akkala Manoj</h1>
-<h3 align="center">A passionate product manager from India</h3>
+<h3 align="center">A passionate Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.groovyweb.co/uploads/Services/1624939546-3%20MERN%20Stack%20Developer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-akkala&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-akkala" /> </p>
