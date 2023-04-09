@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-akkala&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-akkala" /> </p>
  
 
-- 💬 Ask me about **Product Management**
+<!-- - 💬 Ask me about **Product Management** -->
 
 - 📫 How to reach me **amanojkg@gmail.com**
 
