@@ -2,10 +2,14 @@
 <h1 align="center">Hi 👋, I'm Akkala Manoj</h1>
 <h3 align="center">A passionate Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.groovyweb.co/uploads/Services/1624939546-3%20MERN%20Stack%20Developer.png">
+<img align="left" alt="Coding" width="400" src="https://res.cloudinary.com/dd0nnb0rh/image/upload/v1683690525/1_J_EXEmUkOcg-rgzJudUhZQ_z6txfv.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-akkala&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-akkala" /> </p>
+ <h5>Hi...Welcome to my GitHub profile! I'm a software developer with expertise in the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. I have experience building web applications using these technologies and love exploring new ways to make them more efficient and user-friendly. </h5>
  
+ <h5>I'm also currently working on ❄ Data analytics projects 📈📊📉. These projects involve using various tools and techniques to analyze data and extract insights that can be used to inform business decisions. I'm passionate about using data to solve complex problems and make better decisions, and I'm excited to share my work with others on GitHub.</h5>
 
+<h4> I'm constantly working on new and exciting projects. Feel free to browse my repositories, leave feedback, and connect with me if you're interested in collaborating on a project.</h4>
 <!-- - 💬 Ask me about **Product Management** -->
 
 - 📫 How to reach me **amanojkg@gmail.com**
