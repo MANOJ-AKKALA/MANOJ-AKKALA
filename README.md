@@ -1,3 +1,27 @@
+# Hi there, I'm Akkala Manoj 👋
+
+### Pega Certified Developer & MERN Stack Enthusiast | Data Analytics
+
+<div align="center">
+  <img width="45%" src="https://www.pega.com/sites/pega.com/files/styles/max_1300x1300/public/2021-10/pega-logo-blue.png" alt="Pega Systems" style="background:white;padding:10px;border-radius:8px;">
+  <img width="45%" src="https://www.groovyweb.co/uploads/Services/1624939546-3%20MERN%20Stack%20Developer.png" alt="MERN Stack">
+</div>
+
+## 🚀 About Me
+
+✔ **Pega CSA & CSSA Certified** Developer with 3+ years experience  
+✔ Specialized in **case management, workflows, and UI design**  
+✔ Passionate about **full-stack development** using MERN  
+✔ Data Analytics enthusiast (Power BI, SQL)  
+
+```diff
++ Currently building: Insurance Policy Processing System in Pega
++ Learning: Advanced React patterns & Microservices architecture
+
+
+--------------
+
+
 
 # Hi there, I'm Akkala Manoj 👋
 
