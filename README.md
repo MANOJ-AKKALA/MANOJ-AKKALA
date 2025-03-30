@@ -3,7 +3,7 @@
 ### Pega Certified Developer & MERN Stack Enthusiast | Data Analytics
 
 <div align="center">
-  <img width="45%" src="https://www.pega.com/sites/pega.com/files/styles/max_1300x1300/public/2021-10/pega-logo-blue.png" alt="Pega Systems" style="background:white;padding:10px;border-radius:8px;">
+  <img width="45%" src="[https://www.pega.com/sites/pega.com/files/styles/max_1300x1300/public/2021-10/pega-logo-blue.png](https://www.google.com/imgres?q=pega%20systems&imgurl=https%3A%2F%2Fwww.drupal.org%2Ffiles%2Fstyles%2Fgrid-4-2x%2Fpublic%2Fpega_logo_vertical_positive_rgb%2520%25285%2529.png%3Fitok%3DxJFFRCBE&imgrefurl=https%3A%2F%2Fwww.drupal.org%2Fpegasystems&docid=4z2_Htz2Oti7DM&tbnid=nrfuYspfyw5whM&vet=12ahUKEwj-9MjAobKMAxVOU2wGHSAJMAsQM3oECBUQAA..i&w=600&h=538&hcb=2&ved=2ahUKEwj-9MjAobKMAxVOU2wGHSAJMAsQM3oECBUQAA)" alt="Pega Systems" style="background:white;padding:10px;border-radius:8px;">
   <img width="45%" src="https://www.groovyweb.co/uploads/Services/1624939546-3%20MERN%20Stack%20Developer.png" alt="MERN Stack">
 </div>
 
