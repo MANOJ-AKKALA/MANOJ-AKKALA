@@ -11,7 +11,7 @@
 ✔ Passionate about **Pega CDH**   
 ✔ Data Analytics enthusiast (Power BI, SQL) 
  
- - 🌱 I’m currently working on **Insurance Domain**
+ - 🌱 I’m currently working on **mastering ReactJs Skills**
  
  - 💬 Ask me about **Pega CSA CSSA CDH**
  
